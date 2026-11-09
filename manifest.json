@@ -1,0 +1,10 @@
+{
+  "name": "Remote Camera",
+  "short_name": "Remote Cam",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0c0e0f",
+  "theme_color": "#0c0e0f",
+  "icons": [{ "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }]
+}
